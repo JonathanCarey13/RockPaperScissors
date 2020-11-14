@@ -1,0 +1,7 @@
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\RockPaperScissors\obj\Debug\RockPaperScissors.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+C:\ElevenFiftyProjects\DotNetProjects\CSharpFundamentals\RockPaperScissors\obj\Debug\RockPaperScissors.pdb
