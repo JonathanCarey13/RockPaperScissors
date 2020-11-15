@@ -46,7 +46,6 @@
     <Compile Include="Program.cs" />
     <Compile Include="ProgramUI.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="RPS.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

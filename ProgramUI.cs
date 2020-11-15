@@ -185,24 +185,24 @@ namespace RockPaperScissors
         {
             Console.Clear();
             Console.WriteLine("You found the EASTER\n\n" +
-                "    eeeeeeeeeeee       ggggggggg   ggggg   ggggggggg   ggggg" +
-                "  ee::::::::::::ee    g:::::::::ggg::::g  g:::::::::ggg::::g" +
-                "e::::::eeeee:::::ee g:::::::::::::::::g g:::::::::::::::::g" +
-                "e::::::e     e:::::eg::::::ggggg::::::ggg::::::ggggg::::::gg" +
-                "e:::::::eeeee::::::eg:::::g     g:::::g g:::::g     g:::::g" +
-                "e:::::::::::::::::e g:::::g     g:::::g g:::::g     g:::::g" +
-                "e::::::eeeeeeeeeee  g:::::g     g:::::g g:::::g     g:::::g" +
-                "e:::::::e           g::::::g    g:::::g g::::::g    g:::::g" +
-                "e::::::::e          g:::::::ggggg:::::g g:::::::ggggg:::::g" +
-                " e::::::::eeeeeeee   g::::::::::::::::g  g::::::::::::::::g" +
-                "  ee:::::::::::::e    gg::::::::::::::g   gg::::::::::::::g" +
-                "    eeeeeeeeeeeeee      gggggggg::::::g     gggggggg::::::g" +
-                "                                g:::::g             g:::::g" +
-                "                    gggggg      g:::::g gggggg      g:::::g" +
-                "                    g:::::gg   gg:::::g g:::::gg   gg:::::g" +
-                "                    g::::::ggg:::::::g  g::::::ggg:::::::g" +
-                "                     gg:::::::::::::g    gg:::::::::::::g" +
-                "                        ggg::::::ggg        ggg::::::ggg" +
+                "    eeeeeeeeeeee       ggggggggg   ggggg   ggggggggg   ggggg\n" +
+                "  ee::::::::::::ee    g:::::::::ggg::::g  g:::::::::ggg::::g\n" +
+                "e::::::eeeee:::::ee g:::::::::::::::::g g:::::::::::::::::g\n" +
+                "e::::::e     e:::::eg::::::ggggg::::::ggg::::::ggggg::::::gg\n" +
+                "e:::::::eeeee::::::eg:::::g     g:::::g g:::::g     g:::::g\n" +
+                "e:::::::::::::::::e g:::::g     g:::::g g:::::g     g:::::g\n" +
+                "e::::::eeeeeeeeeee  g:::::g     g:::::g g:::::g     g:::::g\n" +
+                "e:::::::e           g::::::g    g:::::g g::::::g    g:::::g\n" +
+                "e::::::::e          g:::::::ggggg:::::g g:::::::ggggg:::::g\n" +
+                " e::::::::eeeeeeee   g::::::::::::::::g  g::::::::::::::::g\n" +
+                "  ee:::::::::::::e    gg::::::::::::::g   gg::::::::::::::g\n" +
+                "    eeeeeeeeeeeeee      gggggggg::::::g     gggggggg::::::g\n" +
+                "                                g:::::g             g:::::g\n" +
+                "                    gggggg      g:::::g gggggg      g:::::g\n" +
+                "                    g:::::gg   gg:::::g g:::::gg   gg:::::g\n" +
+                "                    g::::::ggg:::::::g  g::::::ggg:::::::g\n" +
+                "                     gg:::::::::::::g    gg:::::::::::::g\n" +
+                "                        ggg::::::ggg        ggg::::::ggg\n" +
                 "                           gggggg              gggggg");
 
             Console.ReadKey();
